@@ -26,3 +26,4 @@ pandas, numpy, scikit-learn for data manipulation and modeling.
 Usage
 Install Dependencies: pip install -r requirements.txt
 Run the Code: Use Jupyter Notebook or any Python IDE to execute analysis.ipynb for detailed analysis steps.
+This project is licensed under the MIT License.
